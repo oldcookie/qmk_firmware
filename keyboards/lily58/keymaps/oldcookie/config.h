@@ -41,6 +41,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SAT_STEP 17
 #define RGBLIGHT_VAL_STEP 17
 
+//Mouse
+#define MOUSEKEY_DELAY 50
+#define MOUSEKEY_INTERVAL 25
+#define MOUSEKEY_WHEEL_DELAY 50
+#define MOUSEKEY_TIME_TO_MAX 10
+
 // Underglow
 /*
 #undef RGBLED_NUM
