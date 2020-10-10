@@ -41,6 +41,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SAT_STEP 17
 #define RGBLIGHT_VAL_STEP 17
 
+#define RGBLED_SPLIT {5, 5}
+
 //Mouse
 #define MOUSEKEY_DELAY 50
 #define MOUSEKEY_INTERVAL 25
